@@ -72,7 +72,7 @@ a {
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #400559;
+  color: #89216B;
   outline: none;
 }
 
@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #400559;
+  background-color: #89216B;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   -moz-transform: scaleX(0);
@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6 {
 #inf-header #navbar li.active a {
   background: transparent;
   background: none;
-  color: #400559;
+  color: #89216B;
 }
 #inf-header #navbar li.active a span:before {
   visibility: visible;
@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 30px;
   font-weight: 700;
   padding-left: 15px;
-  color: #400559;
+  color: #89216B;
 }
 #inf-header.navbar-fixed-top {
   position: fixed !important;
@@ -224,22 +224,22 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
 }
 #inf-header.navbar-fixed-top .navbar-brand {
-  color: #400559;
+  color: #89216B;
   padding-left: 15px;
 }
 #inf-header.navbar-fixed-top #navbar li a {
-  color: #400559;
+  color: #89216B;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
 }
 #inf-header.navbar-fixed-top #navbar li a:hover {
-  color: #400559;
+  color: #89216B;
 }
 #inf-header.navbar-fixed-top #navbar li.active a {
   background: transparent;
   background: none;
-  color: #400559;
+  color: #89216B;
 }
 #inf-header.navbar-fixed-top #navbar li.active a span:before {
   visibility: visible;
@@ -268,7 +268,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #adadad;
 }
 #inf-header .navbar-default .brand-slogan em {
-  color: #400559;
+  color: #89216B;
   font-style: normal;
 }
 #inf-header a {
@@ -493,14 +493,14 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 .btn.btn-primary {
-  background: #400559;
+  background: #89216B;
   color: #180830;
   border: none !important;
   border: 2px solid transparent !important;
 }
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   box-shadow: none;
-  background: #400559;
+  background: #89216B;
 }
 .btn:hover, .btn:active, .btn:focus {
   background: #393e46 !important;
@@ -540,11 +540,11 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: none;
 }
 .social li a.social-box {
-  background: #400559;
+  background: #89216B;
   color: #180830;
 }
 .social li a.social-circle {
-  background: #400559;
+  background: #89216B;
   color: #180830;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -555,11 +555,11 @@ h1, h2, h3, h4, h5, h6 {
   background: #393e46 !important;
 }
 .social.social-box a {
-  background: #400559;
+  background: #89216B;
   color: #180830;
 }
 .social.social-circle a {
-  background: #400559;
+  background: #89216B;
   color: #180830;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
